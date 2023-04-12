@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+main div{
+    font-size: 1.6rem;
+}
+
+.text-container{
+    font-size: 1.5em;
+}
+
+.text-container div{
+    font-size: 1.5em; /* Toma el tamaño de fuente o el valor del objeto padre inmediato */
+}
+
+p{
+    font-size: 1rem; /* Rem siempre toma como valor de referencia el valor establecido en la ventana de html */
+}

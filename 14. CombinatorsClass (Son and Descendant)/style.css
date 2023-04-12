@@ -1,0 +1,7 @@
+div > p{ /* Etiqueta parrafo que sea hija de una etiqueta div */
+    color: red;
+}
+
+div p{ /* Todas las etiquetas p que sean descendientes de div */
+    color: red;
+}

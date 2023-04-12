@@ -1,0 +1,3 @@
+h2 + p{ /* Toda etiqueta parrafo que este cerca de h2 */
+    color:red;
+}

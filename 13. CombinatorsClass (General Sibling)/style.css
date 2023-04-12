@@ -1,0 +1,3 @@
+h2 ~ p{ /* alt + 126 */ /* Etiquetas que tengan como hermano general cualquiera de la especificada */
+    color: red;
+}
